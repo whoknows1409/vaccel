@@ -1,0 +1,2 @@
+obj-m := vaccel.o
+vaccel-y := vaccel_main.o vaccel_mem.o vaccel_sched.o vaccel_buddy.o
